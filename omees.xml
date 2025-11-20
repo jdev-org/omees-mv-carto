@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
-    <application title="OMEES" mouseposition="false" logo="" help="" measuretools="true" mapprint="true" exportpng="true" togglealllayersfromtheme="true" addlayerstools="true"/>
+    <application title="OMEES" mouseposition="false" logo="apps/omees/img/logo-fondation-avenir.svg" help="" measuretools="true" mapprint="true" exportpng="true" togglealllayersfromtheme="true" addlayerstools="true"/>
     <mapoptions maxzoom="19" projection="EPSG:3857" center="-220750.13768758904,6144925.57790189" zoom="5" projextent="-20037508.342789244, -20037508.342789244, 20037508.342789244, 20037508.342789244" />
 
     <baselayers style="gallery">
