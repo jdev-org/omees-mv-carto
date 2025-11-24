@@ -14,9 +14,8 @@
 
     <themes>
         <theme name="OMEES - Montpellier" collapsed="false" id="omees-montpellier" icon="fas fa-mosquito">
-            <layer scalemin="0" scalemax="250000" id="albopictus_arbocarto_montpellier_weekly" name="Densités de moustiques adultes hebdomadaire sur la métropole de Montpellier" visible="false" tiled="false" searchable="false" queryable="true" infoformat="application/vnd.ogc.gml" featurecount="10" style="omees:albo_arbocarto_densadults_quartiers, omees:albo_arbocarto_densadults_iris" url="https://geodata.bac-a-sable.inrae.fr/geoserver/omees/ows" metadata="https://geodata.bac-a-sable.inrae.fr/datahub/dataset/857234eb-8b1d-47ac-a021-4f4b7105a66a" />
+            <layer scalemin="0" scalemax="250000" id="albopictus_arbocarto_montpellier_weekly" name="Densités de moustiques adultes hebdomadaire sur la métropole de Montpellier" visible="true" tiled="false" searchable="false" queryable="true" infoformat="application/vnd.ogc.gml" featurecount="10" style="omees:albo_arbocarto_densadults_quartiers, omees:albo_arbocarto_densadults_iris" url="https://geodata.bac-a-sable.inrae.fr/geoserver/omees/ows" metadata="https://geodata.bac-a-sable.inrae.fr/datahub/dataset/857234eb-8b1d-47ac-a021-4f4b7105a66a" />
             <layer id="MMM_MMM_VegFine" scalemin="0" scalemax="250000" name="Végétation urbaine de Montpellier Méditerrannée Métropole" visible="false" tiled="true" searchable="false" queryable="true" infoformat="application/vnd.ogc.gml" featurecount="10" url="https://geodata.bac-a-sable.inrae.fr/geoserver/omees/ows" metadata="https://geodata.bac-a-sable.inrae.fr/datahub/dataset/vegetation-fine-2019" />
-
             <layer id="espacesverts" scalemin="0" scalemax="250000" name="Parcs et jardins de Montpellier Méditerrannée Métropole" visible="false" tiled="false" type="customlayer" searchable="false" queryable="true" infoformat="application/vnd.ogc.gml" featurecount="10" url="apps/omees/customlayers/espacesverts.js" metadata="https://geodata.bac-a-sable.inrae.fr/datahub/dataset/parcs-et-jardins-surface-de-montpellier" />
         </theme>
         <theme name="OMEES" collapsed="true" id="omees" icon="fas fa-mosquito">
